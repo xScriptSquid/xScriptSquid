@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Ray, going by scriptSquid. 
+
 <!--
 **xScriptSquid/xScriptSquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
