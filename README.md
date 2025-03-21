@@ -1,7 +1,15 @@
-## Hi there 👋
+## Hi there, I am scriptSquid 👋
 
-My name is scriptSquid! Currently working in IT and brushing up on my web development skills to sharpen my portfolio 🦑
+Working in IT as a Sys Admin brushing up on my web development skills, sharpening my scripting portfolio, & adding a splash of cyber security knowledge. 🦑
 
+Experience in: <br>
+
++ HTML <br>
++ CSS / SASS <br>
++ Javascript <br>
++ Powershell <br>
+---
+Currently learning ThreeJS with the goal to make a 3D-centric porfolio.
 <!--
 **xScriptSquid/xScriptSquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
