@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Ray, going by scriptSquid. 
+My name is scriptSquid! Currently working in IT and brushing up on my web development skills to sharpen my portfolio 🦑
 
 <!--
 **xScriptSquid/xScriptSquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
