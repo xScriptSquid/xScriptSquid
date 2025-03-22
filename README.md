@@ -8,8 +8,6 @@ Experience in: <br>
 + CSS / SASS <br>
 + Javascript <br>
 + Powershell <br>
----
-Currently learning ThreeJS with the goal to make a 3D-centric porfolio.
 <!--
 **xScriptSquid/xScriptSquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
