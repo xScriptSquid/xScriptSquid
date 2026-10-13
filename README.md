@@ -1,24 +1,16 @@
-## Hi there, I am scriptSquid 👋
+### Ray Renteria — Systems & security engineer
 
-Working in IT as a Sys Admin brushing up on my web development skills, sharpening my scripting portfolio, & adding a splash of cyber security knowledge. 🦑
+I automate infrastructure, then try to break it.
 
-Experience in: <br>
+Senior Systems Administrator running network, identity, and endpoint
+security across 26 sites (~825 endpoints). Six years in, moving deeper
+into security — incident investigation, hardening, and wireless auditing.
 
-+ HTML <br>
-+ CSS / SASS <br>
-+ Javascript <br>
-+ Powershell <br>
-<!--
-**xScriptSquid/xScriptSquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗 [scriptsquid.dev](https://scriptsquid.dev)
 
-Here are some ideas to get you started:
+**What I work with**
+- **Infrastructure** — Ubiquiti UniFi (multi-site), Microsoft 365 / Entra ID, Exchange, Google Workspace, Jamf Pro
+- **Automation** — PowerShell, Python, Microsoft Graph, REST APIs, Playwright, Azure Functions
+- **Security** — Incident investigation, endpoint & email security (Sophos), WPA/wireless auditing, least-privilege design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently** — sharpening the security side and shipping tools I use at work.
