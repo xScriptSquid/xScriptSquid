@@ -1,27 +1,16 @@
-### whoami
+### Ray Renteria — Systems & security engineer
 
-```bash
-$ whoami
-Ray Renteria — systems & security engineer
-$ cat ~/.plan
-automate all the boring things, then poke holes in them
-```
+I automate infrastructure, then try to break it.
 
-Part sysadmin, part script gremlin, increasingly part red-teamer. 🦑
+Senior Systems Administrator running network, identity, and endpoint
+security across 26 sites (~825 endpoints). Six years in, moving deeper
+into security — incident investigation, hardening, and wireless auditing.
 
-I keep 26 sites and ~825 endpoints alive and well-behaved, automate the
-tedious parts away, and spend my spare cycles finding the cracks before
-someone else does.
+🔗 [scriptsquid.dev](https://scriptsquid.dev)
 
-🔗 **[scriptsquid.dev](https://scriptsquid.dev)** — the full story
+**What I work with**
+- **Infrastructure** — Ubiquiti UniFi (multi-site), Microsoft 365 / Entra ID, Exchange, Google Workspace, Jamf Pro
+- **Automation** — PowerShell, Python, Microsoft Graph, REST APIs, Playwright, Azure Functions
+- **Security** — Incident investigation, endpoint & email security (Sophos), WPA/wireless auditing, least-privilege design
 
----
-
-**🛠️ The toolbox**
-- **Keeping the lights on** — UniFi (multi-site), Microsoft 365 / Entra ID, Exchange, Google Workspace, Jamf
-- **Automating my way out of tickets** — PowerShell, Python, Microsoft Graph, Playwright, Azure Functions
-- **Breaking things (on purpose)** — incident investigation, endpoint & email security, WPA/wireless auditing, hardening
-
-**🔭 Currently** — leveling up the security side & shipping tools I actually use at work.
-
-> *"0 tickets opened."* — my favorite log line
+**Currently** — sharpening the security side and shipping tools I use at work.
