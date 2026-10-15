@@ -2,11 +2,11 @@
 
 I automate infrastructure, then try to break it.
 
-Senior Systems Administrator running network, identity, and endpoint
-security across 26 sites (~825 endpoints). Six years in, moving deeper
-into security — incident investigation, hardening, and wireless auditing.
+Senior Systems Administrator running network, identity, and endpoint security
+across 26 sites (~825 endpoints). Six years in and moving deeper into security:
+incident investigation, hardening, and wireless auditing.
 
-🔗 [scriptsquid.dev](https://scriptsquid.dev)
+🔗 **[scriptsquid.dev](https://scriptsquid.dev)**
 
 **What I work with**
 - **Infrastructure** — Ubiquiti UniFi (multi-site), Microsoft 365 / Entra ID, Exchange, Google Workspace, Jamf Pro
